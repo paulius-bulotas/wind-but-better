@@ -1,0 +1,16 @@
+# Rust/Cargo stuff
+/target/
+/Cargo.lock
+
+# VS Code settings
+.vscode/
+
+# Logs & temp files
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
+
+# By default
+core
